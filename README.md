@@ -10,6 +10,6 @@ https://hellokoding.com/spring-boot-hello-world-example-with-jsp/
 ## Stack
 - Spring Boot
 - Java
-
+ 
 ## Run
 `mvn spring-boot:run`
